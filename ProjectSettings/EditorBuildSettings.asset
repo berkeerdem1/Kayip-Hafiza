@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ui/mainmenu.unity
+    guid: 2689895f7010a1e4086df3b97f8d62df
+  - enabled: 1
+    path: Assets/Scenes/openedtext.unity
+    guid: cdc337fc16297e845bd2041c3386fed0
+  - enabled: 1
+    path: Assets/Scenes/openedscene.unity
+    guid: d4aaa7d03f388e945a4b73fdfbc6558f
+  - enabled: 1
+    path: Assets/Scenes/loading1.unity
+    guid: d894f568513dfaf4dbbd080e6fd0c302
+  - enabled: 1
+    path: Assets/Scenes/selection/yolsecimi.unity
+    guid: 3dfde2b67bfac7a45aea7f4216696a86
+  - enabled: 1
+    path: Assets/Scenes/firstend.unity
+    guid: 913928973b4ce86438f597ed649c08eb
+  - enabled: 1
+    path: Assets/Scenes/firstendyazi.unity
+    guid: be5018a2a7a3a0d4f84232a5bd742eb8
+  - enabled: 1
+    path: Assets/Scenes/ui/ilkson.unity
+    guid: 165312e4081a1494f90c970c8959b731
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: ef8ba2fd6af93e346978f48a2e421f78
+  - enabled: 1
+    path: Assets/Scenes/loading2.unity
+    guid: bdc5ee786e5b4934682b53863278a9ea
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 95e0ef0b0a40e3643bc7403fc52b3337
+  - enabled: 1
+    path: Assets/Scenes/selection/silahsecimi.unity
+    guid: ec58ade7707d7a14c88e1b71b1f36d50
+  - enabled: 1
+    path: Assets/Scenes/select1/Level4(shotgun).unity
+    guid: b80e864b725ab0f4185256b34fc9aa8e
+  - enabled: 1
+    path: Assets/Scenes/ui/ikincison.unity
+    guid: d6e27ca93e29ac643a8532436bc2f202
+  - enabled: 1
+    path: Assets/Scenes/ui/gameover2.unity
+    guid: fe3c03c1c42ddcd40aa80f0cbedbf094
+  - enabled: 1
+    path: Assets/Scenes/select1/level5(pistol).unity
+    guid: 0738f57ef57ef3944914f3ffce1b7159
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: d1d1c6bd04ecd5f439a5705bcd051545
+  - enabled: 1
+    path: Assets/Scenes/level7(boss).unity
+    guid: 90fc7eadb8b8b6040abdfc4aa9088178
+  - enabled: 1
+    path: Assets/Scenes/level7.2(boss).unity
+    guid: 64775880798e05e46a7ad7d10665098c
+  - enabled: 1
+    path: Assets/Scenes/loading3.unity
+    guid: 766a0bb2d1682364fa42c16589c81fb8
+  - enabled: 1
+    path: Assets/Scenes/selection/canavarsecimi.unity
+    guid: a5a94cac3067e554686871e13031f220
+  - enabled: 1
+    path: Assets/Scenes/select3/bossdeath.unity
+    guid: 610f1eeeeba70da4ea3631cf14364f5a
+  - enabled: 1
+    path: Assets/Scenes/select3/3.olumyazisi.unity
+    guid: 172fd0b90240ad443afd9ec94d1c4664
+  - enabled: 1
+    path: Assets/Scenes/ui/selectionback.unity
+    guid: 25fc358400cbd3c4aab58ed38cf8bd39
+  - enabled: 1
+    path: Assets/Scenes/select3/bosslive.unity
+    guid: 7ff73a8975e65064b9b7a5cca9d514c2
+  - enabled: 1
+    path: Assets/Scenes/level8.unity
+    guid: e96dd3e309542514ca006fcee821dc11
+  - enabled: 1
+    path: Assets/Scenes/loading5.unity
+    guid: 4f641948d5a468545a5c2f28d5c59f83
+  - enabled: 1
+    path: Assets/Scenes/level9.unity
+    guid: 8e25c0589750bd74c8ba4cf6b8fdf1dc
+  - enabled: 1
+    path: Assets/Scenes/selection/finasecim.unity
+    guid: ceeaf907345b61d4c9ce298c9b698f04
+  - enabled: 1
+    path: Assets/Scenes/select4/ernestlive.unity
+    guid: ac61a18dfcc4bc442908357ac6e39ef4
+  - enabled: 1
+    path: Assets/Scenes/select4/4.olumyazisi.unity
+    guid: 4c86545fee83c0147bc622785dbeba3d
+  - enabled: 1
+    path: Assets/Scenes/ui/gameOver5.unity
+    guid: 4ece9885e49f9a94395d01a7896401f1
+  - enabled: 1
+    path: Assets/Scenes/select4/ernestdeath.unity
+    guid: 49c29b2c96e9e9048bcfc58cad51b49e
+  - enabled: 1
+    path: Assets/Scenes/finalyazi.unity
+    guid: 794c1a5fb7a3bd14e9d7706f5c268b1e
+  - enabled: 1
+    path: Assets/Scenes/ui/complete.unity
+    guid: 3e44454f89b49f842bb8341df4f0f22c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ui/gameOver1.unity
+    guid: fcdf2a5825c7715489e92a34b22004df
+  - enabled: 1
+    path: Assets/Scenes/ui/gOver4.unity
+    guid: 6455f53f2fd680946850815e5dc83d7b
+  - enabled: 1
+    path: Assets/Scenes/ui/settings.unity
+    guid: 9a710cd66f909d548a7d62af8eece65e
+  - enabled: 1
+    path: Assets/Scenes/ui/guns.unity
+    guid: 81fbded5cc153994f9aff387dffe7aed
+  - enabled: 1
+    path: Assets/Scenes/ui/gover6.unity
+    guid: 92554d0bb439509488b5502a518df595
+  - enabled: 1
+    path: Assets/Scenes/ui/pausemenu.unity
+    guid: 25a3dace55d96f543bdb94498ad58d6a
+  - enabled: 1
+    path: Assets/Scenes/ui/pausem2.unity
+    guid: 14e0cf0b7569c5f4d9349d71ea55ff55
+  m_configObjects: {}
